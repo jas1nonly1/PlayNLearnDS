@@ -1,0 +1,574 @@
+[
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_dialog_text.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\dialog_text.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_comparing_array.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\activity_comparing_array.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_activity_play_queue.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\activity_play_queue.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_dialog_layout_win.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\dialog_layout_win.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_card_front.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\fragment_card_front.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_spinnertext.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\spinnertext.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_tree_demo.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\menu\\tree_demo.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_stack_menu.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\activity_stack_menu.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_text.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable\\custom_text.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_flip_array.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\activity_flip_array.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_main.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_activity_queue_def.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\activity_queue_def.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tree_demo.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\activity_tree_demo.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_play_queue.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\menu\\play_queue.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_card_front.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\fragment_card_front.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_welcome_queue.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\activity_welcome_queue.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_dialog_layout_win.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\dialog_layout_win.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_activity_welcome_queue.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\activity_welcome_queue.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome_queue.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\activity_welcome_queue.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_final_dialog.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\final_dialog.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_activity_stack_menu.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\activity_stack_menu.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_fragment_card_front.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\fragment_card_front.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_array_sorting.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\activity_array_sorting.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_array_sorting.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\menu\\array_sorting.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_tree_demo.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\activity_tree_demo.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_sorting_dialog.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\sorting_dialog.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_stack_def.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\menu\\stack_def.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_flip_array.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\activity_flip_array.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_locked.png.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\locked.png"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_play_array.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\activity_play_array.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_array_insertion.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\menu\\array_insertion.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_final_dialog.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\final_dialog.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_activity_main.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_stack_def.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\activity_stack_def.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_activity_stack_def.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\activity_stack_def.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_activity_tree_demo.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\activity_tree_demo.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_spinnertext.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\spinnertext.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_dialog_layout_lose.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\dialog_layout_lose.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_final_dialog.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\final_dialog.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_spinnertext.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\spinnertext.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_activity_play_queue.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\activity_play_queue.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_queue.png.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\queue.png"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bucket.png.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\bucket.png"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_array_sorting.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\activity_array_sorting.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tree.png.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\tree.png"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_activity_stack_def.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\activity_stack_def.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_queue_def.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\activity_queue_def.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_play_queue.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\activity_play_queue.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_array_sorting.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\activity_array_sorting.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_queue_def.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\menu\\queue_def.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg11.jpg.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\bg11.jpg"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_comparing_array.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\activity_comparing_array.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinnertext.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\spinnertext.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_play_array.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\menu\\play_array.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_unlocked.png.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\unlocked.png"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_card_back.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\fragment_card_back.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_array_menu.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\activity_array_menu.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_main_menu.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\activity_main_menu.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_dialog_text.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\dialog_text.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_activity_array_sorting.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\activity_array_sorting.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_activity_welcome_queue.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\activity_welcome_queue.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_activity_queue_def.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\activity_queue_def.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_dialog_layout_win.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\dialog_layout_win.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_activity_flip_array.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\activity_flip_array.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_text.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\dialog_text.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_stack_menu.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\activity_stack_menu.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_final_dialog.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\final_dialog.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_layout_lose.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\dialog_layout_lose.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_play_array.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\activity_play_array.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_card_back.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\fragment_card_back.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg9.jpg.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\bg9.jpg"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_array_insertion.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\activity_array_insertion.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_activity_array_insertion.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\activity_array_insertion.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_activity_flip_array.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\activity_flip_array.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_play_array.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\activity_play_array.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_tree_demo.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\activity_tree_demo.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_play_queue.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\activity_play_queue.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg10.jpg.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\bg10.jpg"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_stack_menu.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\activity_stack_menu.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_activity_array_insertion.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\activity_array_insertion.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_layout_win.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\dialog_layout_win.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_activity_comparing_array.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\activity_comparing_array.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_stack_def.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\activity_stack_def.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_array_menu.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\activity_array_menu.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_queue_def.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\activity_queue_def.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_activity_tree_demo.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\activity_tree_demo.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_welcome_queue.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\activity_welcome_queue.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_queue_pic.jpg.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\queue_pic.jpg"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_fragment_card_back.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\fragment_card_back.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_comparing_array.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\activity_comparing_array.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg4.jpg.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\bg4.jpg"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_front4.png.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\front4.png"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_menu.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\activity_main_menu.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_activity_stack_menu.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\activity_stack_menu.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_dialog_layout_lose.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\dialog_layout_lose.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-xxhdpi-v19_final_dialog.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-xxhdpi-v19\\final_dialog.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_fragment_card_front.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\fragment_card_front.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_array_menu.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\activity_array_menu.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stack.bmp.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\stack.bmp"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_container.png.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\container.png"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_array.gif.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\array.gif"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_main_menu.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\activity_main_menu.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_main.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg5.jpg.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\bg5.jpg"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_spinnertext.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\spinnertext.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_stack_def.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\activity_stack_def.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_activity_array_sorting.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\activity_array_sorting.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_stack_menu.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\menu\\stack_menu.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-xxhdpi-v19_activity_tree_demo.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-xxhdpi-v19\\activity_tree_demo.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg8.jpg.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\bg8.jpg"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_front1.jpg.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\front1.jpg"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_fragment_card_back.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\fragment_card_back.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_final_page.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\menu\\final_page.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_dialog_layout_win.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\dialog_layout_win.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_welcome_queue.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\menu\\welcome_queue.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_dialog_text.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\dialog_text.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_dialog_layout_lose.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\dialog_layout_lose.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_fragment_card_back.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\fragment_card_back.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_fragment_card_front.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\fragment_card_front.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_activity_main_menu.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\activity_main_menu.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_play_queue.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\activity_play_queue.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_activity_main_menu.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\activity_main_menu.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_comparing_array.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\menu\\comparing_array.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_dialog_text.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\dialog_text.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_array_insertion.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\activity_array_insertion.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_activity_array_menu.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\activity_array_menu.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_queue_def.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-land\\activity_queue_def.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_final_dialog.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout\\final_dialog.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_flip_array.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\activity_flip_array.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_activity_play_array.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\activity_play_array.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_dialog_layout_lose.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\dialog_layout_lose.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_activity_main.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg2.jpg.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\drawable-hdpi\\bg2.jpg"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_activity_comparing_array.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\activity_comparing_array.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-large_activity_array_menu.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-sw800dp-large\\activity_array_menu.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_array_insertion.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-xlarge\\activity_array_insertion.xml"
+    },
+    {
+        "merged": "G:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_activity_play_array.xml.flat",
+        "source": "G:\\@NDROID\\SortingDemoApp\\app\\src\\main\\res\\layout-large-land\\activity_play_array.xml"
+    }
+]

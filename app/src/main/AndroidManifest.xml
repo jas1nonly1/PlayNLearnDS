@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="sorting.demoapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <!--<uses-sdk-->
+        <!--android:minSdkVersion="15"-->
+        <!--android:targetSdkVersion="19" />-->
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/front4"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="sorting.demoapp.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="sorting.demoapp.MainMenu"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+        <activity android:name="sorting.demoapp.ArrayMenu" >
+        </activity>
+        <activity android:name="sorting.demoapp.FlipArray" >
+        </activity>
+        <activity
+            android:name="sorting.demoapp.PlayArray"
+            android:label="@string/title_activity_play_array" >
+        </activity>
+        <activity
+            android:name="sorting.demoapp.ArraySorting"
+            android:label="@string/title_activity_array_sorting" >
+        </activity>
+        <activity
+            android:name="sorting.demoapp.StackSorting"
+            android:label="@string/title_activity_stack_sorting" >
+        </activity>
+        <activity
+            android:name="sorting.demoapp.ArrayInsertion"
+            android:label="@string/title_activity_array_insertion" >
+        </activity>
+        <activity
+            android:name="sorting.demoapp.StackMenu"
+            android:label="@string/title_activity_stack_menu" >
+        </activity>
+        <activity
+            android:name="sorting.demoapp.StackDef"
+            android:label="@string/title_activity_stack_def" >
+        </activity>
+        <activity
+            android:name="sorting.demoapp.ComparingArray"
+            android:label="@string/title_activity_comparing_array" >
+        </activity>
+        <activity
+            android:name="sorting.demoapp.PlayQueue"
+            android:label="@string/title_activity_play_queue" >
+        </activity>
+        <activity
+            android:name="sorting.demoapp.QueueDef"
+            android:label="@string/title_activity_queue_def" >
+        </activity>
+        <activity
+            android:name="sorting.demoapp.WelcomeQueue"
+            android:label="@string/title_activity_welcome_queue" >
+        </activity>
+        <activity
+            android:name="sorting.demoapp.TreeDemo"
+            android:label="@string/title_activity_tree_demo" >
+        </activity>
+        <activity
+            android:name="sorting.demoapp.FinalPage"
+            android:label="@string/title_activity_final_page" >
+        </activity>
+    </application>
+
+</manifest>

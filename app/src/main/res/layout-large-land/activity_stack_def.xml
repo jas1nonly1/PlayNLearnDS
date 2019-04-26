@@ -1,0 +1,48 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/container"
+    android:background="@drawable/bg4" >
+    <Button 
+        android:id="@+id/button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Lets Play with Stack"
+        android:textColor="@android:color/white"
+        android:onClick="playStack"/>
+    
+    <TextView
+        android:id="@+id/textView"
+        android:layout_below="@id/button"
+        android:layout_width="wrap_content"
+        android:textSize="40sp"
+        android:layout_height="wrap_content"
+        android:text="What is a Stack?"
+        android:textColor="@android:color/white"
+        android:layout_centerHorizontal="true"/>
+    
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_below="@id/textView"
+        android:layout_width="500dp"
+        android:layout_height="400dp"
+        android:src="@drawable/stack" 
+        android:padding="20dp"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:layout_below="@id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="A stack is a container of objects that are inserted and removed according to the last-in first-out (LIFO) principle. In the pushdown stacks only two operations are allowed: push the item into the stack, and pop the item out of the stack. A stack is a limited access data structure - elements can be added and removed from the stack only at the top. push adds an item to the top of the stack, pop removes the item from the top. A helpful analogy is to think of a stack of books; you can remove only the top book, also you can add a new book on the top."
+        android:textColor="@android:color/white"
+        android:padding="20dp"
+        android:layout_centerHorizontal="true"
+         />
+
+</RelativeLayout>
+</ScrollView>

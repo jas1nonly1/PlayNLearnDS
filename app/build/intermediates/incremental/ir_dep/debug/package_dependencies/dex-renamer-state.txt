@@ -1,0 +1,4 @@
+#Fri Apr 26 11:59:27 CST 2019
+base.0=G\:\\@NDROID\\SortingDemoApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

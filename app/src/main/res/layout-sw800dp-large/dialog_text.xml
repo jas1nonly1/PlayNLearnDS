@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="You will be given a list of numbers to insert into Tree"/>
+       <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1. The first number will be the root node"
+        android:textSize="30sp"/>
+          <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="2. The numbers greater than the parent node will be placed on Right Node"/>
+             <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="3. The numbers smaller than the parent node will be placed on Left Node"/>
+             
+             <Button
+                 android:id="@+id/cont1"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="Continue"
+                 android:layout_gravity="center_horizontal"
+                 />    
+
+</LinearLayout>

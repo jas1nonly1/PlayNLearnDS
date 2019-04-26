@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg11">
+ 
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/levels"
+        android:divider="@android:color/white"
+        android:dividerHeight="5dp" 
+        android:drawSelectorOnTop="true">
+    </ListView>
+    <ScrollView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:orientation="vertical">
+    <TextView
+        android:padding="20dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="4"
+        android:textSize="20sp"
+        android:textColor="@android:color/white"
+        android:text="Module 1 depicts Insertion of Homogeneous elements into an Array"
+        />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="4"
+        android:textSize="20sp"
+        android:padding="20dp"
+        android:textColor="@android:color/white"
+        android:text="Module 2 depicts comparison between various Sorting Algorithms based on their Time Complexity"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="4"
+        android:textSize="20sp"
+        android:padding="20dp"
+        android:textColor="@android:color/white"
+        android:text="Module 3 depicts various Sorting Algorithms like Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, Selection Sort alongwith their Time Complexity"/>
+     <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="4"
+        android:textSize="20sp"
+        android:padding="20dp"
+        android:textColor="@android:color/white"
+        android:text="You have to clear Module - 1 in order to move to the next Level i.e Stack"/>
+</LinearLayout>
+</ScrollView>
+</LinearLayout>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:background="@drawable/bg8">
+    
+    <LinearLayout
+        android:id="@+id/layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="00:00:00"
+            android:visibility="gone"
+            android:layout_gravity="left"
+            android:textStyle="bold"
+            android:textColor="@android:color/white"/>
+        <Button 
+            android:id="@+id/start"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Start Game"
+        android:onClick="startGame"
+        android:gravity="center_horizontal"
+        />
+        <Button
+            android:id="@+id/continuePlay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Continue"
+            android:onClick="continuePlay"
+            android:visibility="gone"/>
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" 
+        android:layout_below="@id/layout">
+
+        <Button
+            android:id="@+id/insert"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:onClick="insert"
+            android:text="Insert item into Queue"
+            android:layout_gravity="center_horizontal" />
+
+        <Button
+            android:id="@+id/delete"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:onClick="delete"
+            android:text="Delete items from Queue" 
+            android:layout_gravity="center_horizontal"
+            android:enabled="false"/>
+    </LinearLayout>
+
+   
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/linearLayout1"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="30dp"
+        android:layout_marginTop="33dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn"
+            style="@android:attr/buttonBarButtonStyle"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@android:color/holo_orange_dark" />
+
+        <Button
+            android:id="@+id/button1"
+            style="@android:attr/buttonBarButtonStyle"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@android:color/holo_purple" />
+
+        <Button
+            android:id="@+id/button2"
+            style="@android:attr/buttonBarButtonStyle"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@android:color/holo_blue_dark" />
+
+        <Button
+            android:id="@+id/btn1"
+            style="@android:attr/buttonBarButtonStyle"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/button3"
+            style="@android:attr/buttonBarButtonStyle"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@android:color/holo_red_dark" />
+
+        <Button
+            android:id="@+id/button4"
+            style="@android:attr/buttonBarButtonStyle"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@android:color/holo_blue_bright" />
+    </LinearLayout>
+     <LinearLayout
+        android:id="@+id/layout2"
+        android:layout_width="280dp"
+        android:layout_height="80dp"
+        android:layout_below="@id/linearLayout2"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/queue"
+        android:orientation="horizontal"
+        android:padding="20dp" >
+
+    </LinearLayout>
+
+</RelativeLayout>
